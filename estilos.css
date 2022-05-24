@@ -1,0 +1,9 @@
+/*resetear los defaults. Usando selector es * */
+* {
+    margin:0;
+    padding:0;
+}
+
+.item-relative {
+    position:10x
+}
